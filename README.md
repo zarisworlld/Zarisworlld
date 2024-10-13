@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi, I'm Zahra Kheiri!
+I’m a Fullstack Web Developer with 5 years of experience working in both front-end and back-end development. 
+I hold a Bachelor’s degree in Computer Engineering and have a passion for building efficient, scalable, and user-friendly web applications.
 
 <!--
 **zarisworlld/Zarisworlld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
