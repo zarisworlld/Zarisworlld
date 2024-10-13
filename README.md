@@ -14,7 +14,7 @@ I hold a Bachelor’s degree in Computer Engineering and have a passion for buil
 ## 🔗 Connect with Me
 + [Linkedin](https://www.linkedin.com/in/zahra-kheiri/)
 + [Github](https://github.com/zarisworlld/)
-+ [Email](zahrakheiri.eng@gmail.com/).
++ [Email](zahrakheiri.eng@gmail.com/)
 <!--
 **zarisworlld/Zarisworlld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
